@@ -4,7 +4,7 @@
   <a href="#-sobre-mim">😎 Sobre Mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-propósito">🚀 Propósito</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-minhas-especialidades">👨‍💻 Minhas Especialidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-meu-contato">💡 Meu Contato</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-meus-contatos">💡 Meus Contatos</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <div align="center">
@@ -19,12 +19,19 @@
 <p>Aprimorar os meus conhecimentos e assimilar novas experiências afim de desenvolver as melhores soluções.</p>
 
 ## 👨‍💻 Minhas Especialidades
+<div style="display: inline_block">
+  <img alt="HTML" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="JavaScript" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img alt="Python" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="PHP" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+</div>
 
-- HTML
-- CSS
-- JS
-- PYTHON
+## 💡 Meus Contatos
 
-## 💡 Meu Contato
-
-<a href="mailto:victoraugustobm1@gmail.com">📧 victoraugustobm1@gmail.com</a>
+<a href="mailto:victoraugustobm1@gmail.com">
+  <img alt="victoraugustobm1@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/victor-a-b-monterisi/">
+  <img alt="https://www.linkedin.com/in/victor-a-b-monterisi/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
