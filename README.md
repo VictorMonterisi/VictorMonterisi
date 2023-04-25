@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hello there!!! 👋</h1>
 
-<!--
-**VictorMonterisi/VictorMonterisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<div align="center">
+   <img height="350em" src="./.github/assets/cover_.png"/>
+</div>-->
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="#-sobre-mim">Sobre Mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-meu-propósito">Meu Propósito</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-minhas-especialidades">Minhas Especialidades</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😎 Sobre Mim
+<p>Desenvolvedor front-end e webmaster, atuei por muitos anos no setor do marketing digital, elaborando websites focados no posicionamento orgânico (SEO) e aplicações web para diversas necessidades. Atualmente estou estudando Python e suas contribuições para a automação e tratamento de dados.</p>
+
+## 🚀 Meu Propósito
+
+<p>Aprimorar os meus conhecimentos e assimilar novas experiências afim de desenvolver as melhores soluções.</p>
+
+## 👨‍💻 Minhas Especialidades
+
+- HTML
+- CSS
+- JS
+- PYTHON
