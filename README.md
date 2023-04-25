@@ -1,8 +1,8 @@
 <h1 align="center">Hello there!!! 👋</h1>
 
-<!--<div align="center">
-   <img height="350em" src="./.github/assets/cover_.png"/>
-</div>-->
+<div align="center">
+   <img src=".github/sw.gif" width="100%">
+</div>
 
 <p align="center">
   <a href="#-sobre-mim">Sobre Mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
