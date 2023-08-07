@@ -31,12 +31,12 @@
 
 ## 💡 Meus Contatos
 
-<a href="mailto:victormonterisi@gmail.com" title="victormonterisi@gmail.com">
+<a href="mailto:victormonterisi@gmail.com" title="victormonterisi@gmail.com" style="text-decoration: none;">
   <img alt="victormonterisi@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/victor-a-b-monterisi/" title="https://www.linkedin.com/in/victor-a-b-monterisi/">
+<a target="_blank" href="https://www.linkedin.com/in/victor-a-b-monterisi/" title="https://www.linkedin.com/in/victor-a-b-monterisi/" style="text-decoration: none;">
   <img alt="https://www.linkedin.com/in/victor-a-b-monterisi/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a target="_blank" href="https://codepen.io/victor-monterisi" title="https://codepen.io/victor-monterisi">
+<a target="_blank" href="https://codepen.io/victor-monterisi" title="https://codepen.io/victor-monterisi" style="text-decoration: none;">
   <img alt="https://codepen.io/victor-monterisi" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
