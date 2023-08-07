@@ -12,11 +12,11 @@
 </div>
 
 ## 😎 Sobre Mim
-<p>Desenvolvedor front-end e webmaster, atuei por muitos anos no setor do marketing digital, elaborando websites focados no posicionamento orgânico (SEO) e aplicações web para diversas necessidades. Atualmente estou estudando Python e suas contribuições para a automação e tratamento de dados.</p>
+<p>Sou desenvolvedor web e atuei por muitos anos no setor do marketing digital, elaborando websites focados no posicionamento orgânico (SEO) e aplicações web para diversas necessidades. Meu foco atual é o aprendizado de linguagens e técnicas que sirvam tanto para o front-end quanto para back-end, automação e tratamento de dados.</p>
 
 ## 🚀 Propósito
 
-<p>Aprimorar os meus conhecimentos e assimilar novas experiências afim de desenvolver as melhores soluções.</p>
+<p>Aprimorar os meus conhecimentos e assimilar novas experiências a fim de desenvolver as melhores soluções.</p>
 
 ## 👨‍💻 Minhas Especialidades
 <div style="display: inline_block">
@@ -25,13 +25,14 @@
   <img alt="JavaScript" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img alt="Python" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img alt="PHP" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img alt="MySQL" align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ## 💡 Meus Contatos
 
-<!-- <a href="mailto:victoraugustobm1@gmail.com" title="victoraugustobm1@gmail.com">
-  <img alt="victoraugustobm1@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> -->
+<a href="mailto:victormonterisi@gmail.com" title="victormonterisi@gmail.com">
+  <img alt="victormonterisi@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 <a target="_blank" href="https://www.linkedin.com/in/victor-a-b-monterisi/" title="https://www.linkedin.com/in/victor-a-b-monterisi/">
   <img alt="https://www.linkedin.com/in/victor-a-b-monterisi/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
