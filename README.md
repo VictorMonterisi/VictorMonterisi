@@ -22,9 +22,9 @@
 ## 👨‍💻 My Expertise
 
 <div style="display: inline_block">
-  <img alt="HTML" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-
-  <img alt="CSS" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="HTML" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+          
+  <img alt="CSS" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
 
   <img alt="Bootstrap" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
           
@@ -40,9 +40,9 @@
 
   <img alt="MySQL" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
-  <img alt="Python" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Python" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 </div>
-
+          
 ## 📧 Contact Information
 
 <a href="mailto:victormonterisi@gmail.com" title="victormonterisi@gmail.com">
