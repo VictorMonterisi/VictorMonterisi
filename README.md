@@ -29,6 +29,7 @@
   <img alt="Bootstrap" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
           
   <img alt="JavaScript" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+          
 
   <img alt="JQuery" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
 
@@ -38,9 +39,9 @@
 
   <img alt="Laravel" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
 
-  <img alt="MySQL" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-
   <img alt="Python" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+
+  <img alt="MySQL" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
           
 ## 📧 Contact Information
