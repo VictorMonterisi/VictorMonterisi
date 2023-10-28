@@ -1,10 +1,10 @@
 <h1 align="center">Hello there!!! 👋</h1>
 
 <p align="center">
-  <a href="#-about-me">About Me 😎</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-purpose">Purpose 🚀</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-my-specialties">My Expertise 👨‍💻</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contact-information">Contact Information 📧</a>&nbsp;&nbsp;&nbsp;
+  😎 <a href="#-about-me">About Me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🚀 <a href="#-purpose">Purpose</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  👨‍💻 <a href="#-my-specialties">My Expertise</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  📧 <a href="#-contact-information">Contact Information</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <div align="center">
