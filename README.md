@@ -37,7 +37,7 @@
           
   <img alt="Composer" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>
 
-  <img alt="Laravel" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+  <!-- <img alt="Laravel" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/> -->
 
   <img alt="Python" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 
