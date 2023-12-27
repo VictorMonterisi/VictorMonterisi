@@ -21,7 +21,7 @@
 
 ## 👨‍💻 My Expertise
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img alt="HTML" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
           
   <img alt="CSS" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
@@ -49,7 +49,7 @@
 ## 📧 Contact Information
 
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <div>
     <a href="mailto:victormonterisi@gmail.com" title="victormonterisi@gmail.com"><img alt="victormonterisi@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </div>
