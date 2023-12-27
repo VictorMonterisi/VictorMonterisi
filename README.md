@@ -25,7 +25,9 @@
   <img alt="HTML" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
           
   <img alt="CSS" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-
+  
+  <img alt="Sass" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+          
   <img alt="Bootstrap" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
           
   <img alt="JavaScript" align="center" width="60" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
