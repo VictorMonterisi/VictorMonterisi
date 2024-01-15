@@ -17,7 +17,7 @@
 
 ## 🚀 Purpose
 
-<p>Enhancing my knowledge and assimilating new experiences in order to develop the best solutions</p>
+<p>Enhancing my knowledge and assimilating new experiences in order to develop the best solutions.</p>
 
 ## 👨‍💻 My Expertise
 
