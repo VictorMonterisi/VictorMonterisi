@@ -39,7 +39,7 @@
         <img alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg" />
       </td>
       <td align="center" width="90" height="90">
-        <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+        <img alt="PostgreSQL" src="hhttps://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />
       </td>
     </tr>
     <tr>
@@ -50,6 +50,9 @@
         <img alt="SASS" src="https://techstack-generator.vercel.app/sass-icon.svg" />
       </td>
       <td align="center" width="90" height="90">
+        <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+      </td>
+      <td align="center" width="90" height="90">
         <img alt="GitHub" src="https://techstack-generator.vercel.app/github-icon.svg" />
       </td>
       <td align="center" width="90" height="90">
@@ -57,9 +60,6 @@
       </td>
       <td align="center" width="90" height="90">
         <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-      </td>
-      <td align="center" width="90" height="90">
-        <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
       </td>
     </tr>
   </tbody>
