@@ -20,7 +20,7 @@
 
 ## 👨‍💻 My Expertise
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center" width="90" height="90">
