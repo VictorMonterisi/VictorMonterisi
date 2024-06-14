@@ -47,19 +47,19 @@
         <img alt="MySQL" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
       </td>
       <td align="center" width="90" height="90">
-        <img alt="SASS" src="https://techstack-generator.vercel.app/sass-icon.svg" />
-      </td>
-      <td align="center" width="90" height="90">
         <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
       </td>
       <td align="center" width="90" height="90">
-        <img alt="GitHub" src="https://techstack-generator.vercel.app/github-icon.svg" />
+        <img alt="SASS" src="https://techstack-generator.vercel.app/sass-icon.svg" />
+      </td>
+      <td align="center" width="90" height="90">
+        <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
       </td>
       <td align="center" width="90" height="90">
         <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
       </td>
       <td align="center" width="90" height="90">
-        <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+        <img alt="GitHub" src="https://techstack-generator.vercel.app/github-icon.svg" />
       </td>
     </tr>
   </tbody>
