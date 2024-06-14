@@ -20,19 +20,19 @@
 
 ## 👨‍💻 My Expertise
 
-<div style="display: inline-block">
+<div style="display: flex; align-items: center; justify-content: center">
 
-  <img alt="Java" align="center" width="65" height="65" src="https://techstack-generator.vercel.app/java-icon.svg" />
+  <img alt="Java" width="65" height="65" src="https://techstack-generator.vercel.app/java-icon.svg" />
 
-  <img alt="PHP" align="center" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img alt="PHP" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 
-  <img alt="Python" align="center" width="65" height="65" src="https://techstack-generator.vercel.app/python-icon.svg" />
+  <img alt="Python" width="65" height="65" src="https://techstack-generator.vercel.app/python-icon.svg" />
 
-  <img alt="JQuery" align="center" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
+  <img alt="JQuery" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
 
-  <img alt="JavaScript" align="center" width="65" height="65" src="https://techstack-generator.vercel.app/js-icon.svg" />
+  <img alt="JavaScript" width="65" height="65" src="https://techstack-generator.vercel.app/js-icon.svg" />
 
-  <img alt="PostgreSQL" align="center" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img alt="PostgreSQL" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 
   <img alt="MySQL" width="65" height="65" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
 
@@ -40,11 +40,11 @@
 
   <img alt="GitHub" width="65" height="65" src="https://techstack-generator.vercel.app/github-icon.svg" />
 
-  <img alt="HTML" align="center" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+  <img alt="HTML" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
           
-  <img alt="CSS" align="center" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+  <img alt="CSS" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
           
-  <img alt="Bootstrap" align="center" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+  <img alt="Bootstrap" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
           
   
 </div>
