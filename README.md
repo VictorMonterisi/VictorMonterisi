@@ -20,11 +20,11 @@
 
 ## 👨‍💻 My Expertise
 
-<div style="display: flex; align-items: center; justify-content: center">
+<div style="display: flex; align-items: center; justify-content: center; border: 1px solid #ccc">
 
   <img alt="Java" width="65" height="65" src="https://techstack-generator.vercel.app/java-icon.svg" />
 
-  <img alt="PHP" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img alt="PHP" width="65" height="65" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" />
 
   <img alt="Python" width="65" height="65" src="https://techstack-generator.vercel.app/python-icon.svg" />
 
@@ -44,7 +44,7 @@
           
   <img alt="CSS" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
           
-  <img alt="Bootstrap" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+  <img alt="Bootstrap" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
           
   
 </div>
