@@ -20,31 +20,59 @@
 
 ## 👨‍💻 My Expertise
 
-<div style="display: flex; align-items: center; justify-content: center; border: 1px solid #ccc">
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width="65" height="65">  
+        <img alt="Java" src="https://techstack-generator.vercel.app/java-icon.svg" />
+      </td>
 
-  <img alt="Java" width="65" height="65" src="https://techstack-generator.vercel.app/java-icon.svg" />
+      <td align="center" width="65" height="65">
+        <img alt="PHP" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" />
+      </td>
 
-  <img alt="PHP" width="65" height="65" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" />
+      <td align="center" width="65" height="65">
+        <img alt="Python" align="center" width="65" height="65" src="https://techstack-generator.vercel.app/python-icon.svg" />
+      </td>
 
-  <img alt="Python" width="65" height="65" src="https://techstack-generator.vercel.app/python-icon.svg" />
+      <td align="center" width="65" height="65">
+        <img alt="JQuery" align="center" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
+      </td>
 
-  <img alt="JQuery" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
+      <td align="center" width="65" height="65">
+        <img alt="JavaScript" align="center" width="65" height="65" src="https://techstack-generator.vercel.app/js-icon.svg" />
+      </td>
 
-  <img alt="JavaScript" width="65" height="65" src="https://techstack-generator.vercel.app/js-icon.svg" />
+      <td align="center" width="65" height="65">
+        <img alt="PostgreSQL" align="center" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+      </td>
+    </tr>
 
-  <img alt="PostgreSQL" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+    <tr>
+      <td align="center" width="65" height="65">
+        <img alt="MySQL" align="center" width="65" height="65" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
+      </td>
 
-  <img alt="MySQL" width="65" height="65" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
+      <td align="center" width="65" height="65">
+        <img alt="SASS" align="center" width="65" height="65" src="https://techstack-generator.vercel.app/sass-icon.svg" />
+      </td>
 
-  <img alt="SASS" width="65" height="65" src="https://techstack-generator.vercel.app/sass-icon.svg" />
+      <td align="center" width="65" height="65">
+        <img alt="GitHub" align="center" width="65" height="65" src="https://techstack-generator.vercel.app/github-icon.svg" />
+      </td>
 
-  <img alt="GitHub" width="65" height="65" src="https://techstack-generator.vercel.app/github-icon.svg" />
+      <td align="center" width="65" height="65">
+        <img alt="HTML" align="center" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+      </td>
 
-  <img alt="HTML" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-          
-  <img alt="CSS" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-          
-  <img alt="Bootstrap" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-          
-  
-</div>
+      <td align="center" width="65" height="65">
+        <img alt="CSS" align="center" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+      </td>
+
+      <td align="center" width="65" height="65">
+        <img alt="Bootstrap" align="center" width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+      </td>
+    </tr>
+
+  </tbody>     
+</table>
