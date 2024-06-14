@@ -20,45 +20,45 @@
 
 ## 👨‍💻 My Expertise
 
-<table align="center" style="border-spacing: 10px; border-collapse: separate;">
+<table align="center">
   <tbody>
     <tr>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
         <img alt="Java" src="https://techstack-generator.vercel.app/java-icon.svg" />
       </td>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
         <img alt="PHP" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" />
       </td>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
         <img alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg" />
       </td>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
-        <img alt="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
+        <img alt="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
       </td>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
         <img alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg" />
       </td>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
         <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
         <img alt="MySQL" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
       </td>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
-        <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
+        <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
       </td>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
         <img alt="SASS" src="https://techstack-generator.vercel.app/sass-icon.svg" />
       </td>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
-        <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
+        <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
       </td>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
-        <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
+        <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
       </td>
-      <td align="center" width="90" height="90" style="background-color: red; padding: 10px;">
+      <td align="center" width="90" height="90" background-color="#f0f0f0" padding="3">
         <img alt="GitHub" src="https://techstack-generator.vercel.app/github-icon.svg" />
       </td>
     </tr>
