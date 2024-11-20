@@ -24,7 +24,7 @@
   <tbody>
     <tr>
       <td align="center" width="90" height="90">
-        <img alt="Java" src="https://techstack-generator.vercel.app/java-icon.svg" />
+        <img alt="Laravel" src="https://techstack-generator.vercel.app/java-icon.svg" />
       </td>
       <td align="center" width="90" height="90">
         <img alt="PHP" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" />
@@ -33,7 +33,7 @@
         <img alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg" />
       </td>
       <td align="center" width="90" height="90">
-        <img alt="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
+        <img alt="Docker" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
       </td>
       <td align="center" width="90" height="90">
         <img alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg" />
