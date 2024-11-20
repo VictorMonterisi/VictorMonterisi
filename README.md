@@ -47,10 +47,10 @@
         <img alt="MySQL" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
       </td>
       <td align="center" width="90" height="90">
-        <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+        <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
       </td>
       <td align="center" width="90" height="90">
-        <img alt="SASS" src="https://techstack-generator.vercel.app/sass-icon.svg" />
+        <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
       </td>
       <td align="center" width="90" height="90">
         <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
